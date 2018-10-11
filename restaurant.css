@@ -1,0 +1,39 @@
+.topContainer{
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: monospace;
+    font-size: 450%;
+    font-weight: bold;
+}
+
+.topContainer2 {
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: monospace;
+    font-size: 150%;
+}
+
+.nav-item {
+    font-family: monospace;
+    font-size: 200%;
+}
+
+#images{
+  display: flex;
+  flex-direction: column;
+  width: 33%;
+  height: 50%;
+  padding: 2em;
+  padding-bottom: 5%;
+
+}
+#ulLists{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-family: monospace;
+    font-size: 120%;
+}
+
